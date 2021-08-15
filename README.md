@@ -10,8 +10,8 @@ I'm learning HTML, CSS JavaScript and React
 <div >
   <a href="https://github.com/AronNascimento1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AronNascimento1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronNascimento1](https://github.com/AronNascimento1/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronNascimento1&layout=compact&langs_count=7&theme=tokyonight&include"/>
+</div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Aron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,3 +31,4 @@ I'm learning HTML, CSS JavaScript and React
   <a href="https://www.linkedin.com/in/aron-nascimento-a09bbba0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
