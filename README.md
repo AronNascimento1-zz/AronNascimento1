@@ -1,7 +1,7 @@
 ### Hi there I'm Aron 👋
 
 
- I'm 28 years old and I'm starting a developer career.
+ I'm 29 years old and I'm starting a developer career.
 
 Currently studying Systems Analysis and Development
 
